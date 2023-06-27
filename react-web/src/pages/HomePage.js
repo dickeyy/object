@@ -5,7 +5,7 @@ import theme from '../theme';
 export default function HomePage() {
   return (
 
-    <ChakraProvider theme={theme}>
+    <ChakraProvider>
       <Box h={'100vh'} >
         <Spline aria-hidden={'true'} scene="https://prod.spline.design/5myx-z1U5t7Ny2Oe/scene.splinecode" />
 
