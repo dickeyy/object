@@ -7,7 +7,7 @@ export default function HomePage() {
 
     <ChakraProvider theme={theme}>
       <Box h={'100vh'} >
-        <Spline aria-hidden={'true'} scene="https://prod.spline.design/h9lum21vjzEXnlHT/scene.splinecode" />
+        <Spline aria-hidden={'true'} scene="https://prod.spline.design/5myx-z1U5t7Ny2Oe/scene.splinecode" />
 
         {/* <Heading pos={'absolute'} top={0} >Object</Heading> */}
       </Box>
